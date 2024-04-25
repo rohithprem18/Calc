@@ -7,14 +7,14 @@ function clr() {
 }
 
 function solve() {
-    let x = document.getElementById("result").value;
-    let y = eval(x);
+    x = document.getElementById("result").value;
+    y = eval(x);
     document.getElementById("result").value = y;
 }
 
 function percent() {
-    let x = document.getElementById("result").value;
-    let y = eval(x);
-    let percentage = y / 100;
+    x = document.getElementById("result").value;
+    y = eval(x);
+    percentage = y / 100;
     document.getElementById("result").value = percentage;
 }
