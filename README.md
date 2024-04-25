@@ -161,8 +161,8 @@ function percent() {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (63).png>)
-![alt text](<Screenshot (64).png>)
+![alt text](<Screenshot (65).png>)
+![alt text](<Screenshot (66).png>)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
